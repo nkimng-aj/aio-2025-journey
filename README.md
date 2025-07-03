@@ -2,7 +2,7 @@
 
 **1. Module 1: Python**
 - Project 1.1 - Basic Streamlit:
-Ứng dụng tính giai thừa và phân tích điểm số cơ bản 
+Ứng dụng tính giai thừa cơ bản 
 - Project 1.2 - RAG Chatbot:
 Xây dựng RAG Chatbot từ file pdf với LangChain
 
